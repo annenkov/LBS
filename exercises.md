@@ -1,7 +1,7 @@
 In-Class Exercises
 ==================
 
-Extend the ``counter'' contract (*)
+Extend the "counter" contract (*)
 -----------------------------------
 
 Add a threshold functionality to the ``counter'' contract: if the increment + current stored counter value is grater the a threshold the method invocation should fail. Make threshold a parameter to the init method
