@@ -7,7 +7,7 @@ let%init storage = 0p
 
 (* state trasforming function, applied to a concrete
    increment has type [storge -> storage] *)
-let inc  (increment : nat) : storage -> storage =
+let inc  (increment : nat) =
   fun (s : storage) -> s + increment
 
 (* entry point takes two arguments *)
