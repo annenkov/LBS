@@ -48,4 +48,4 @@ The Namecoin contract is a name registration service:
 * owners can update their entries (users have to pay an update fee);
 * the entries can be queried by name.
 
-You might get some inspiration from the Solidity implementation of the Namespace contract (see [NamecoinSolidity](NamecoinSolidity.pdf))
+You might get some inspiration from the Solidity implementation of the Namespace contract (see [NamecoinSolidity](NamecoinSolidity.pdf) - an example by Joseph Bonneau. The promise and peril of smart contracts.)
