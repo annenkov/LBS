@@ -10,6 +10,8 @@ Contents
 
 [Code snippets](Code)
 
+[Lecture slides](SmartContractsSlides.pdf)
+
 Useful links
 ------------
 
