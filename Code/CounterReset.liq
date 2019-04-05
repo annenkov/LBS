@@ -5,7 +5,7 @@ type storage = nat
 
 let%init storage = 0p
 
-let inc (increment : nat) : storage -> storage =
+let inc (increment : nat) =
   fun (s : storage) -> s + increment
 
 (*The first entry point *)
