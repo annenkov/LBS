@@ -1,12 +1,12 @@
 (* A counter contract *)
-[%%version 1.0]
+[%%version 2.0]
 
 type storage = nat
 
 let%init storage = 0p
 
 (* state trasforming function, applied to a concrete
-   increment has type [storge -> storage] *)
+   increment has type [storage -> storage] *)
 let inc  (increment : nat) =
   fun (s : storage) -> s + increment
 

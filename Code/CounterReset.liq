@@ -1,5 +1,5 @@
 (* A counter contract with a reset option *)
-[%%version 1.0]
+[%%version 2.0]
 
 type storage = nat
 
