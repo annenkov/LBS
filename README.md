@@ -6,18 +6,15 @@ Contents
 
 [Exercises and homework](exercises.md)
 
-[Deploying contracts](try-liquidity.md)
-
 [Code snippets](Code)
 
 [Lecture slides](SmartContractsSlides.pdf)
 
-Liquidity
-----------
+CameLIGO
+--------
 
-* [Liquidity language demo](https://www.ocamlpro.com/2018/02/08/liquidity-smart-contract-deploy-live-demo-on-tezos-alphanet-jfla2018/)
-* [Liquidity online editor](http://www.liquidity-lang.org/edit/)
-* [Liquidity documentation](http://www.liquidity-lang.org/edit/doc/)
+* [CameLIGO online editor](https://ide.ligolang.org/)
+* [CameLIGO documentation](https://ligolang.org/docs/intro/introduction)
 
 
 More functional smart contract languages
@@ -26,10 +23,9 @@ More functional smart contract languages
 * Simplicity: https://blockstream.com/simplicity.pdf
 * Plutus: https://testnet.iohkdev.io/plutus/
 * Scilla: https://scilla-lang.org/
-* LIGO: https://ligolang.org/
 
-Supplementary reading
-----------------------
+Concordium's Smart Contracts in Rust
+------------------------------------
 
 * ConCert paper: https://arxiv.org/abs/1907.10674
 
