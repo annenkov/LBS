@@ -1,7 +1,7 @@
 Warm-up Exercises
 ==================
 
-Use the online Liquidity editor [https://ide.ligolang.org/](https://ide.ligolang.org/).
+Use the online CameLIGO editor [https://ide.ligolang.org/](https://ide.ligolang.org/).
 Pick `CameLIGO` for the editor's language.
 
 See the `Code` folder for the handout code.
@@ -16,7 +16,7 @@ Use records to add a threshold field to the state.
 
 Extend the auction contract (**)
 --------------------------------
-Modify the auction contract (see `Code/Auction.liq`)
+Modify the auction contract (see `Code/auction.mligo`)
 
 Particularly, add the following functionality:
 
